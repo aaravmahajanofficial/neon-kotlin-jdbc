@@ -1,5 +1,6 @@
 package com.neon.quickstart
 
 fun main() {
-    createTable()
+//    createTable()
+    readData()
 }
