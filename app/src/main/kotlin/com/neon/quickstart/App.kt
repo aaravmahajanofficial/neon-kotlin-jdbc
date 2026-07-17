@@ -4,5 +4,6 @@ fun main() {
 //    createTable()
 //    readData()
 //    updateData()
-    deleteData()
+//    deleteData()
+    transactionExample()
 }
