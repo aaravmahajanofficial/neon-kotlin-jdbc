@@ -1,9 +1,11 @@
 package com.neon.quickstart
 
 fun main() {
-//    createTable()
-//    readData()
-//    updateData()
-//    deleteData()
-    transactionExample()
+    // Uncomment the example you want to run.
+
+    createTable()
+    // readData()
+    // updateData()
+    // deleteData()
+    // transactionExample()
 }
