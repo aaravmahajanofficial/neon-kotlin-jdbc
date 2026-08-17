@@ -346,4 +346,4 @@ If you're building a larger Kotlin application, you may also want to explore Neo
 
 ## License
 
-This project is an example application demonstrating Kotlin, JDBC, and Neon Postgres.
+This project is an example application demonstrating Kotlin, JDBC, and Neon Postgres. It is licensed under the [MIT License](LICENSE).
